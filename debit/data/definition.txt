@@ -27,7 +27,10 @@ Amount withdrawn XYZ Card
 Integer
 
 Amount withdrawn Other Card
+Integer
+
 Weekday
+AlphaNumeric
 
 Festival Religion
 AlphaNumeric
