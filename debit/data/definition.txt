@@ -1,0 +1,42 @@
+FIELDS: (12 Columns)
+
+ATM Name
+Name of place
+AlphaNumeric
+
+Transaction Date
+Date of transaction
+datetime
+
+No Of Withdrawals
+Total nos of atm card witdrawals
+Integer
+
+No Of XYZ Card Withdrawals
+total nos of XYZ bank card withdrawals
+Integer
+
+No Of Other Card Withdrawals
+total nos of other bank card withdrawals
+Integer
+
+Total amount Withdrawn
+Integer
+
+Amount withdrawn XYZ Card
+Integer
+
+Amount withdrawn Other Card
+Weekday
+
+Festival Religion
+AlphaNumeric
+
+whether festival or not
+AlphaNumeric
+
+Working Day
+AlphaNumeric
+
+Holiday Sequence
+AlphaNumeric
