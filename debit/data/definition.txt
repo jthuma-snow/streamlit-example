@@ -35,9 +35,6 @@ AlphaNumeric
 Festival Religion
 AlphaNumeric
 
-whether festival or not
-AlphaNumeric
-
 Working Day
 AlphaNumeric
 
